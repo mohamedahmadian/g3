@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-alert('ali');
-=======
-hkjjhkjkjhkhk
->>>>>>> master
+alert(12);
