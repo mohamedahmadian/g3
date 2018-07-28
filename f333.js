@@ -1,1 +1,1 @@
-hkjjhkjkjhkhk
+alert('ali');
